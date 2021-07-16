@@ -7,7 +7,7 @@
         <lastBuildDate>Fri, 09 Jul 2021 17:01:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <copyright>Copyright © 2021 Doufulai (Jasper Lai Woen Yon) Built with Docusaurus.&lt;p&gt;&lt;a href="http://beian.miit.gov.cn/" class="footer_lin"&gt;冀ICP备14007097号-3&lt;/a&gt;&lt;/p&gt;</copyright>
+        <copyright>Copyright © 2021 Doufulai (Jasper Lai Woen Yon) Built with Docusaurus.</copyright>
         <item>
             <title><![CDATA[Life As A Data Scientist]]></title>
             <link>https://coderdoufu.github.io/life-as-a-data-scientist</link>
