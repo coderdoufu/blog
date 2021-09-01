@@ -1,1 +1,0 @@
-(self.webpackChunkzxuqian_cn=self.webpackChunkzxuqian_cn||[]).push([[956],{6653:function(e){"use strict";e.exports=JSON.parse('{"life":{"allTagsPath":"/lifestyle/tags","slug":"life","name":"life","count":1,"permalink":"/lifestyle/tags/life"}}')}}]);

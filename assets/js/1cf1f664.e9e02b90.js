@@ -1,0 +1,1 @@
+(self.webpackChunkjasperlai=self.webpackChunkjasperlai||[]).push([[697],{2375:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"test","permalink":"/lifestyle/test"}]}')}}]);

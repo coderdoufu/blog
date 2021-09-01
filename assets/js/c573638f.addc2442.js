@@ -1,0 +1,1 @@
+(self.webpackChunkjasperlai=self.webpackChunkjasperlai||[]).push([[964],{7122:function(e){"use strict";e.exports=JSON.parse('{"career":{"allTagsPath":"/tags","slug":"career","name":"career","count":1,"permalink":"/tags/career"}}')}}]);
