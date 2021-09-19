@@ -1,1 +1,0 @@
-(self.webpackChunkjasperlai=self.webpackChunkjasperlai||[]).push([[535],{6353:function(e){"use strict";e.exports=JSON.parse('{"title":"Latest Posts","items":[{"title":"Life As A Data Scientist","permalink":"/life-as-a-data-scientist"}]}')}}]);
